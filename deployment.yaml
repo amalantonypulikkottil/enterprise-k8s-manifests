@@ -19,7 +19,7 @@ spec:
     spec:
       containers:
       - name: enterprise-node-app
-        image: amalantonypulikkottil/enterprise-node-app:20
+        image: amalantonypulikkottil/enterprise-node-app:21
 
         ports:
         - containerPort: 3000
